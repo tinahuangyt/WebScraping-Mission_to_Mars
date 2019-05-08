@@ -10,7 +10,7 @@ Web scraping is documented in `Mission_to_Mars.ipynb`, tools used include Beauti
 4. [Mars Facts](https://space-facts.com/mars/) for Mars facts. Pandas is used to scrape the table, data converted to a HTML table string.
 5. [USGS Astrogeology Site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar's hemispheres.
 
-**MongoDB and Flask Application**
+**MongoDB and Flask Application:**
 MongoDB with Flask templating was used to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
 Screen shots of final product:
