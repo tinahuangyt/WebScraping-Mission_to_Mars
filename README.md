@@ -13,7 +13,7 @@ Web scraping is documented in `Mission_to_Mars.ipynb`, tools used include Beauti
 **MongoDB and Flask Application**
 MongoDB with Flask templating was used to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
-Screen shots for final product:
+Screen shots of final product:
 
 ![final_app1.png](images/finalapp1.png)
 ![final_app2.png](images/finalapp2.png)
